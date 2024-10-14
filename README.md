@@ -22,4 +22,7 @@ Bu klon, yalnızca arayüz tasarımına odaklanmakla birlikte, web standartları
 
 # Gif
 
-![Uploading spotifyclone.gif…]()
+![spotifyclone](https://github.com/user-attachments/assets/909b032c-b7af-4f55-91ff-be53b5693215)
+
+
+
