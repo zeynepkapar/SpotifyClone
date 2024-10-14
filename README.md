@@ -16,6 +16,6 @@ Bu klon, yalnızca arayüz tasarımına odaklanmakla birlikte, web standartları
 
 # Kullanılan Teknolojiler:
 
-HTML5: Projenin yapısal iskeleti oluşturulmuştur.
-CSS3 ve SCSS: Gelişmiş CSS stilleri ve SCSS ile daha iyi bir stil yönetimi sağlanmıştır. SCSS’in sunduğu avantajlarla stil dosyaları daha okunabilir ve yönetilebilir hale getirilmiştir.
-JavaScript (ES6+): Dinamik öğeler ve kullanıcı etkileşimleri için kullanılmıştır.
+- HTML5: Projenin yapısal iskeleti oluşturulmuştur.
+- CSS3 ve SCSS: Gelişmiş CSS stilleri ve SCSS ile daha iyi bir stil yönetimi sağlanmıştır. SCSS’in sunduğu avantajlarla stil dosyaları daha okunabilir ve yönetilebilir hale getirilmiştir.
+- JavaScript (ES6+): Dinamik öğeler ve kullanıcı etkileşimleri için kullanılmıştır.
